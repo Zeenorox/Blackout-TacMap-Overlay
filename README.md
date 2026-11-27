@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="BLACKOUT PMC" width="140">
+<img src="logo.png" alt="BLACKOUT PMC" width="140">
 
 # 📟 TacMap Overlay
 
@@ -14,7 +14,7 @@ Plan, ping and follow the op without ever alt-tabbing.
 
 <br>
 
-<img src="assets/preview.png" alt="TacMap Overlay phone" width="640">
+<img src="preview.png" alt="TacMap Overlay phone" width="640">
 
 </div>
 
